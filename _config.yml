@@ -28,9 +28,10 @@ twitter_username: stefanmunz
 github_username: stefanmunz
 
 # Build settings
-theme: stefanmunz/monochrome
+remote_theme: stefanmunz/monochrome
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
