@@ -28,7 +28,7 @@ twitter_username: stefanmunz
 github_username: stefanmunz
 
 # Build settings
-theme: minima
+theme: stefanmunz/monochrome
 plugins:
   - jekyll-feed
 # Exclude from processing.
