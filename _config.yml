@@ -28,7 +28,7 @@ twitter_username: stefanmunz
 github_username: stefanmunz
 
 # Build settings
-remote_theme: stefanmunz/monochrome
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
